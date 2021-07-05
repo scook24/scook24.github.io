@@ -1,0 +1,17 @@
+#pumpmapid { height: 600px;
+              width : 75%;
+            margin: 0 auto;}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1em
+  text-align: center;
+}
+h2 {font-size: 0.9em}
+h3 {font-size: 0.75em}
+
+
+#masthead {
+  text-align: center;
+}
+
+.subtitle { color: #808080 }
